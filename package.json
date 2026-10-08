@@ -1,0 +1,16 @@
+{
+  "name": "habits",
+  "version": "1.0.0",
+  "description": "A private habit and todo tracker with weekday scheduling, streaks and year heatmaps. Vanilla HTML/CSS/JS, no dependencies.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["habit-tracker", "todo", "vanilla-js", "localstorage", "zero-dependency"],
+  "author": "Parsa Motamed",
+  "license": "MIT",
+  "private": true,
+  "engines": {
+    "node": ">=14"
+  }
+}
