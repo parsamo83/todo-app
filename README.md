@@ -6,7 +6,11 @@ no build step. Your data stays in your browser.
 
 Built with vanilla HTML, CSS and JavaScript.
 
-<!-- Add a screenshot here: ![Habits screenshot](docs/screenshot.png) -->
+## Screenshots
+
+![Today view with a task, progress bar and streak summary](docs/today.png)
+
+![First-run empty state in dark theme](docs/empty-state.png)
 
 ## Features
 
